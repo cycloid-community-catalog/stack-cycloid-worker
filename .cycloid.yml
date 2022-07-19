@@ -12,6 +12,8 @@ keywords:
   - 'concourse'
   - 'cycloid'
   - 'provider:aws'
+  - 'provider:azure'
+  - 'provider:gcp'
 author: 'Cycloid'
 image: |
   https://cycloid-demo-stacks-logo.s3.eu-west-1.amazonaws.com/concourse.png
