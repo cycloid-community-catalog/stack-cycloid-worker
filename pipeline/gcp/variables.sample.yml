@@ -67,9 +67,9 @@ stack_git_private_key: ((git.ssh_key))
 #+ Password for HTTP(S) auth when pulling/pushing.
 # stack_git_token: ((git.password))
 
-#. stack_terraform_path (required): stack-cycloid-worker/terraform/aws
+#. stack_terraform_path (required): stack-cycloid-worker/terraform/gcp
 #+ Path of Terraform files in the stack git repository
-stack_terraform_path: stack-cycloid-worker/terraform/aws
+stack_terraform_path: stack-cycloid-worker/terraform/gcp
 
 
 #
